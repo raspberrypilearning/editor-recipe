@@ -11,10 +11,12 @@ filename: index.html
 language: html
 line_numbers: true
 line_number_start: 7
-line_highlights: 8
+line_highlights: 8-10
 ---
 <body>
 <h1>Banana Milkshake</h1>
+
+<h3>Ingredients:</h3>
 
 </body>
 
