@@ -1,0 +1,4 @@
+name: 'Recipe - Complete'
+identifier: 'editor-recipe-complete'
+type: 'html'
+build: true
