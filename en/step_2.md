@@ -1,7 +1,7 @@
-<h2 class="c-project-heading--task">Name your recipe</h2>
+<h2 class="c-project-heading--task">Ingredients</h2>
 
 --- task ---
-➡️ In the `<body>` section, add a name for your recipe.
+➡️ Under the name, add an 'Ingredients:' heading.
 --- /task --- 
 
 <div class="c-project-code">
@@ -11,7 +11,7 @@ filename: index.html
 language: html
 line_numbers: true
 line_number_start: 7
-line_highlights: 8-10
+line_highlights: 10
 ---
 <body>
 <h1>Banana Milkshake</h1>
@@ -23,4 +23,4 @@ line_highlights: 8-10
 --- /code ---
 </div>
 
-**Test:** Run your code to see your title.
+**Test:** Run your code to see the heading.
