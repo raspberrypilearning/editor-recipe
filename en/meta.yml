@@ -1,0 +1,21 @@
+title: Recipe
+hero_image: images/banner.png
+description: Create a webpage of your favourite recipe, so that your friends can make
+  it!
+version: 1
+listed: false
+copyedit: false
+last_tested: "2025-09-15"
+steps:
+- title: Recipe name
+  completion:
+  - engaged
+- title: Ingredients
+- title: Method
+- title: Colours
+- title: Finishing touches
+  completion:
+  - internal
+- title: Challenge
+  completion:
+  - external

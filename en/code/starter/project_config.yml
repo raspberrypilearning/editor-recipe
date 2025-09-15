@@ -1,0 +1,4 @@
+name: "Recipe - Starter"
+identifier: "editor-recipe-starter"
+type: 'html'
+build: true
