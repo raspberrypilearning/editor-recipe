@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">First item</h2>
 
 --- task ---
-➡️ Start and end a list using `<ul>`{:.language-html} tags.
-➡️ Add your first ingredient inside `<li>`{:.language-html} tags.
+➡️ Start and end a list using `<ul>` tags.
+➡️ Add your first ingredient inside `<li>` tags.
 
 --- /task --- 
 
@@ -10,7 +10,7 @@
 An unordered list is a bulleted list without numbers.
 
 <h2 class="c-project-heading--explainer">List items</h2>
-An `<li>`{:.language-html} tag is used to create a list item.
+An `<li>` tag is used to create a list item.
 
 <div class="c-project-code">
 --- code ---
