@@ -1,7 +1,9 @@
-<h2 class="c-project-heading--task">Ingredients</h2>
+<h2 class="c-project-heading--task">Ingredients section</h2>
 
 --- task ---
-➡️ Under the name, add an 'Ingredients:' heading.
+
+Under the name, add an 'Ingredients:' heading.
+
 --- /task --- 
 
 <div class="c-project-code">
@@ -21,6 +23,17 @@ line_highlights: 10
 </body>
 
 --- /code ---
+
+--- task ---
+
+**Test:** Run your code to see your title.
+
+--- /task --- 
+
 </div>
 
-**Test:** Run your code to see the heading.
+<div class="c-project-output">
+
+![ADD](images/step3.png)
+
+</div>

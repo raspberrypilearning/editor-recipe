@@ -1,26 +1,29 @@
-<h2 class="c-project-heading--task">Name your recipe</h2>
+<h2 class="c-project-heading--task">Method</h2>
 
 --- task ---
-➡️ In the `<body>` section, add a name for your recipe.
+
+Add an __ordered list__ with numbered steps for the method.
+
 --- /task --- 
 
-<div class="c-project-code">
 --- code ---
 ---
-filename: index.html
 language: html
-line_numbers: true
-line_number_start: 7
-line_highlights: 8-10
+line_numbers: false
+line_number_start: 13
+line_highlights: 14-18
 ---
-<body>
-<h1>Banana Milkshake</h1>
+</ul>
+<h3>Method:</h3>
+<ol>
 
-<h3>Ingredients:</h3>
-
+</ol>
 </body>
-
 --- /code ---
-</div>
+--- /task ---
 
-**Test:** Run your code to see your title.
+--- task ---
+Click **Run** to check you have added the code in the right place.
+
+![screenshot](images/recipe-method.png)
+--- /task ---
