@@ -31,6 +31,6 @@ Click **Run** to check you have added the code in the right place.
 
 <div class="c-project-output">
 
-![screenshot](images/recipe-method.png)
+![screenshot](images/step5.png)
 
 </div>

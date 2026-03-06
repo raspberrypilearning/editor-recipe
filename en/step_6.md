@@ -31,6 +31,6 @@ Finish adding the rest of the steps to make your recipe.
 
 <div class="c-project-output">
 
-![screenshot](images/recipe-ol.png)
+![screenshot](images/step6.png)
 
 </div>

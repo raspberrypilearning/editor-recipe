@@ -55,7 +55,7 @@ Click **Run** to see the new style.
 
 <div class="c-project-output">
 
-![A recipe for banana milkshake in light red with a light red line underneath it](images/recipe-hr-css.png)
+![A recipe for banana milkshake in light red with a light red line underneath it](images/step9.png)
 
 </div>
 

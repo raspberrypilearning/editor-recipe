@@ -29,7 +29,7 @@ Click **Run** to see the line.
 
 <div class="c-project-output">
 
-![A banana milkshake recipe in light red text with a grey line underneath it](images/recipe-hr.png)
+![A banana milkshake recipe in light red text with a grey line underneath it](images/step7.png)
 
 </div>
 

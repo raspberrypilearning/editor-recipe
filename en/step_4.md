@@ -48,6 +48,6 @@ Add more list items for the rest of the ingredients in your recipe.
 
 <div class="c-project-output">
 
-![ADD](images/step3.png)
+![ADD](images/step4.png)
 
 </div>

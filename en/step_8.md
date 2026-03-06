@@ -52,6 +52,6 @@ Click **Run** to see the results.
 
 <div class="c-project-output">
 
-![A banana milkshake recipe written in blue text](images/recipe-blue.png){:style="width:50%;"}
+![A banana milkshake recipe written in blue text](images/step8.pngg){:style="width:50%;"}
 
 </div>
