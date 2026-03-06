@@ -1,33 +1,54 @@
-<h2 class="c-project-heading--task">Bullet styles</h2>
+<h2 class="c-project-heading--task">Challenges</h2>
 
 --- task ---
 
-Add a style to change the bullet points to squares instead of circles:
+Add more styles and images to upgrade your project.
 
 --- /task ---
+
+--- task ---
+
+Change the background colour of your page by adding a background attribute to your `body` style in `style.css`.
 
 <div class="c-project-output">
 --- code ---
 ---
 language: css
 line_numbers: true
-line_number_start: 9
+line_number_start: 1
+line_highlights: 3
 ---
-ul {
-    list-style-type: square;
+body {
+    color: tomato;
+	background: beige;
 }
 --- /code ---
+</div>
+--- /task ---
 
 --- task ---
+Ask a few of your friends to leave a review for your recipe and add it to your site.
 
-Click **Run** to see the new shape.
+![Red text on a yellow background showing two reviews of a banana milkshake recipe.](images/recipe-reviews.png)
 
 --- /task ---
 
-</div>
+--- task ---
+
+Choose an image from the pictures tab and add it to your page.
+
+![The sidebar with image gallery selected and images of banana, dough and tomatoes](images/recipe-images.png){:style=“width:50%;“}
+
+Here’s some HTML code to help you:
 
 <div class="c-project-output">
-
-![A recipe for banana milkshake with bullet points in the shape of squares](images/recipe-ul-css.png){:style=“width:50%;“}
-
+--- code ---
+---
+language: html
+line_numbers: false
+---
+<img src="nameofimage.jpg">
+--- /code ---
 </div>
+
+--- /task ---

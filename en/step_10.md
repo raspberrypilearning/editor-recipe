@@ -1,17 +1,8 @@
-<h2 class="c-project-heading--task">Style the line</h2>
+<h2 class="c-project-heading--task">Bullet styles</h2>
 
 --- task ---
 
-Add CSS code to set the style of the line. 
-
---- /task --- 
-
-
---- task ---
-
-Switch back to `style.css`.
-
-Replace `???` with a colour you like.
+Add a style to change the bullet points to squares instead of circles:
 
 --- /task ---
 
@@ -22,16 +13,14 @@ language: css
 line_numbers: true
 line_number_start: 9
 ---
-hr {
-    height: 2px;
-    border: none;
-    background-color: ???;
+ul {
+    list-style-type: square;
 }
 --- /code ---
 
 --- task ---
 
-Click **Run** to see the new style.
+Click **Run** to see the new shape.
 
 --- /task ---
 
@@ -39,6 +28,6 @@ Click **Run** to see the new style.
 
 <div class="c-project-output">
 
-![A recipe for banana milkshake in light red with a light red line underneath it](images/recipe-hr-css.png)
+![A recipe for banana milkshake with bullet points in the shape of squares](images/recipe-ul-css.png){:style=“width:50%;“}
 
 </div>
