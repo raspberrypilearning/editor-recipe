@@ -10,13 +10,15 @@ Write down the first step in your recipe, using `<li>` and `</li>`:
 --- code ---
 ---
 language: html
-line_numbers: false
-line_number_start: 17
-line_highlights: 18
+line_numbers: true
+line_number_start: 15
+line_highlights: 17
 ---
-<ol>
-<li>Peel the banana and add to a blender</li>
-</ol>
+  <h3>Method:</h3>
+  <ol>
+    <li>Peel the banana and add to a blender</li>
+  </ol>
+</body>
 --- /code ---
 
 --- task ---

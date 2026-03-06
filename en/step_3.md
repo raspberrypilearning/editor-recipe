@@ -17,9 +17,9 @@ line_highlights: 10
 ---
 <body>
 <h1>Banana Milkshake</h1>
-
-<h3>Ingredients:</h3>
-
+  
+  <h3>Ingredients:</h3>
+  
 </body>
 
 --- /code ---

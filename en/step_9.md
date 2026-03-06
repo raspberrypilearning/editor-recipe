@@ -9,23 +9,39 @@ Add CSS code to set the style of the line.
 
 --- task ---
 
-Switch back to `style.css`.
+Add the code below to the CSS file. 
 
-Replace `???` with a colour you like.
+Edit the code:
+- Replace `orange` with a colour you like. 
+- Change the `height` to make the line thinner or thicker.
 
 --- /task ---
 
-<div class="c-project-output">
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+In `height: 2px` px is short for pixels, and is the number of dots on a screen. 
+
+</div>
+
+
+<div class="c-project-code">
 --- code ---
 ---
 language: css
 line_numbers: true
-line_number_start: 9
+line_number_start: 1
+line_highlights: 5-9
 ---
+body {
+    color: blue;
+}
+
 hr {
-    height: 2px;
+    height: 4px;
     border: none;
-    background-color: ???;
+    background-color: orange;
 }
 --- /code ---
 
@@ -42,3 +58,4 @@ Click **Run** to see the new style.
 ![A recipe for banana milkshake in light red with a light red line underneath it](images/recipe-hr-css.png)
 
 </div>
+

@@ -12,13 +12,13 @@ Add **ordered list** tags for making numbered steps for the method.
 language: html
 line_numbers: true
 line_number_start: 13
-line_highlights: 14-18
+line_highlights: 14-17
 ---
-</ul>
-<h3>Method:</h3>
-<ol>
-
-</ol>
+  </ul>
+  <h3>Method:</h3>
+  <ol>
+    
+  </ol>
 </body>
 --- /code ---
 

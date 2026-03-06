@@ -1,55 +1,35 @@
-<h2 class="c-project-heading--task">Colours</h2>
+<h2 class="c-project-heading--task">Horizontal line</h2>
 
 --- task ---
 
-Style the recipe with CSS
-
---- /task --- 
-
---- task ---
-
-Click on the file icon, and the `style.css` file.
-
-![screenshot](images/css-file.png)
+Add a horizontal line at the end of your recipe using the `<hr>` tag.
 
 --- /task ---
-
---- task ---
-
-Add the code below to make all of the text blue.
-
-Experiment with other colours, then click **Run** to see the result.
-
---- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
-
-</div>
 
 <div class="c-project-code">
 --- code ---
 ---
-language: css
+language: html
 line_numbers: true
-line_number_start: 1
+line_number_start: 18
+line_highlights: 19
 ---
-body {
-    color: blue;
-}
+  </ol>
+  <hr>
+</body>
 --- /code ---
 
---- task---
+--- task --- 
 
-Click **Run** to see the results. 
+Click **Run** to see the line.
 
 --- /task ---
 
+</div>
+
 <div class="c-project-output">
 
-![A banana milkshake recipe written in blue text](images/recipe-blue.png){:style="width:50%;"}
+![A banana milkshake recipe in light red text with a grey line underneath it](images/recipe-hr.png)
 
 </div>
+

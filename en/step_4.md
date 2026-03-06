@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add your ingredient in a list.
+Add your ingredients in a list.
 
 --- /task --- 
 
@@ -24,17 +24,14 @@ Add your first ingredient inside `<li>`{:.language-html} tags.
 filename: index.html
 language: html
 line_numbers: true
-line_number_start: 7
-line_highlights: 11-13
+line_number_start: 10
+line_highlights: 11-14
 ---
-<body>
-<h1>Banana Milkshake</h1>
-
-<h3>Ingredients:</h3>
-<ul>
-<li>1 banana</li>
-<li>250ml Milk</li>
-</ul>
+  <h3>Ingredients:</h3>
+  <ul>
+    <li>1 banana</li>
+    <li>250ml Milk</li>
+  </ul>
 
 </body>
 

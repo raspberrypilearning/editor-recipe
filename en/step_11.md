@@ -10,7 +10,7 @@ Add more styles and images to upgrade your project.
 
 Change the background colour of your page by adding a background attribute to your `body` style in `style.css`.
 
-<div class="c-project-output">
+<div class="c-project-code">
 --- code ---
 ---
 language: css
@@ -41,7 +41,7 @@ Choose an image from the pictures tab and add it to your page.
 
 Here’s some HTML code to help you:
 
-<div class="c-project-output">
+<div class="c-project-code">
 --- code ---
 ---
 language: html
