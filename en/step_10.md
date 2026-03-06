@@ -35,6 +35,6 @@ Click **Run** to see the new shape.
 
 <div class="c-project-output">
 
-![A recipe for banana milkshake with bullet points in the shape of squares](images/step10.png){:style=“width:50%;“}
+![A recipe for banana milkshake with bullet points in the shape of squares](images/step9.png){:style=“width:50%;“}
 
 </div>
