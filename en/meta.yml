@@ -7,15 +7,18 @@ listed: false
 copyedit: false
 last_tested: "2025-09-15"
 steps:
-- title: Recipe name
+- title: Step 1
   completion:
   - engaged
-- title: Ingredients
-- title: Method
-- title: Colours
-- title: Finishing touches
+- title: Step 2
+- title: Step 3
+- title: Step 4
+- title: Step 5
+- title: Step 6
+- title: Step 7
+- title: Step 8
   completion:
   - internal
-- title: Challenge
+- title: Step 10
   completion:
   - external

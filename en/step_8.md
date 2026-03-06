@@ -1,26 +1,42 @@
-<h2 class="c-project-heading--task">Name your recipe</h2>
+<h2 class="c-project-heading--task">Horizontal line</h2>
 
 --- task ---
-➡️ In the `<body>` section, add a name for your recipe.
---- /task --- 
+
+Add a horizontal line at the end of your recipe using the `<hr>` tag.
+
+--- /task ---
+
+--- task ---
+
+Select your `index.html` file in the sidebar.
+
+![Sidebar of the code editor showing two files - index.html and style.css](images/recipe-sidebar.png){:style=“width:50%;“}
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
 ---
-filename: index.html
 language: html
 line_numbers: true
-line_number_start: 7
-line_highlights: 8-10
+line_number_start: 19
+line_highlights: 20
 ---
-<body>
-<h1>Banana Milkshake</h1>
-
-<h3>Ingredients:</h3>
-
-</body>
-
+</ol>
+<hr>
 --- /code ---
+
+--- task --- 
+
+Click **Run** to see the line.
+
+--- /task ---
+
 </div>
 
-**Test:** Run your code to see your title.
+<div class="c-project-output">
+
+![A banana milkshake recipe in light red text with a grey line underneath it](images/recipe-hr.png)
+
+</div>
+
