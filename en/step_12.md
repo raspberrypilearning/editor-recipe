@@ -10,6 +10,7 @@ Add more styles and images to upgrade your project.
 
 Change the background colour of your page by adding a background attribute to your `body` style in `style.css`.
 
+<div class="c-project-output">
 --- code ---
 ---
 language: css
@@ -22,6 +23,7 @@ body {
 	background: beige;
 }
 --- /code ---
+</div>
 --- /task ---
 
 --- task ---
@@ -31,7 +33,7 @@ Ask a few of your friends to leave a review for your recipe and add it to your s
 
 --- /task ---
 
-
+--- task ---
 
 Choose an image from the pictures tab and add it to your page.
 
@@ -39,6 +41,7 @@ Choose an image from the pictures tab and add it to your page.
 
 Here’s some HTML code to help you:
 
+<div class="c-project-output">
 --- code ---
 ---
 language: html
@@ -46,4 +49,6 @@ line_numbers: false
 ---
 <img src="nameofimage.jpg">
 --- /code ---
+</div>
+
 --- /task ---
