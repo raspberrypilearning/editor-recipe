@@ -16,11 +16,11 @@ Change the background colour of your page by adding a background attribute to yo
 language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 3
+line_highlights: 2-3
 ---
 body {
-    color: tomato;
-	background: beige;
+  color: tomato;
+  background: beige;
 }
 --- /code ---
 </div>
@@ -45,9 +45,13 @@ Here’s some HTML code to help you:
 --- code ---
 ---
 language: html
-line_numbers: false
+line_numbers: true
+line_number_start: 19
+line_highlights: 20
 ---
-<img src="nameofimage.jpg">
+  <hr>
+  <img src="banana.jpg">
+</body>
 --- /code ---
 </div>
 
