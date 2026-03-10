@@ -19,17 +19,16 @@ line_highlights: 19
 </body>
 --- /code ---
 
+</div>
+
 --- task --- 
 
 Click **Run** to see the line.
 
 --- /task ---
 
-</div>
-
 <div class="c-project-output">
 
 ![A banana milkshake recipe in light red text with a grey line underneath it](images/step7.png)
 
 </div>
-

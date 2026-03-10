@@ -22,12 +22,13 @@ line_highlights: 14-17
 </body>
 --- /code ---
 
+</div>
+
 --- task ---
 
 Click **Run** to check you have added the code in the right place.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 

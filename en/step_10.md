@@ -25,13 +25,13 @@ ul {
 }
 --- /code ---
 
+</div>
+
 --- task ---
 
 Click **Run** to see the new shape.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 

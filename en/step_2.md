@@ -28,12 +28,13 @@ line_highlights: 8
 
 --- /code ---
 
+</div>
+
 --- task ---
 
 **Test:** Run your code to see your title.
 
 --- /task --- 
-</div>
 
 <div class="c-project-output">
 

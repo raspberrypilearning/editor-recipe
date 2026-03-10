@@ -36,6 +36,8 @@ line_highlights: 11-14
 </body>
 
 --- /code ---
+
+</div>
 --- task ---
 
 **Test:** Run your code to see your first ingredient. 
@@ -43,8 +45,6 @@ line_highlights: 11-14
 Add more list items for the rest of the ingredients in your recipe.
 
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 

@@ -21,13 +21,13 @@ line_highlights: 17
 </body>
 --- /code ---
 
+</div>
+
 --- task ---
 Click **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
 
 Finish adding the rest of the steps to make your recipe.
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
 

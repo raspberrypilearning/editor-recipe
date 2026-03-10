@@ -45,17 +45,16 @@ hr {
 }
 --- /code ---
 
+</div>
+
 --- task ---
 
 Click **Run** to see the new style.
 
 --- /task ---
 
-</div>
-
 <div class="c-project-output">
 
 ![A recipe for banana milkshake in light red with a light red line underneath it](images/step10.png)
 
 </div>
-

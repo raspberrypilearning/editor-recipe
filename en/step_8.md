@@ -43,12 +43,13 @@ body {
 }
 --- /code ---
 
+</div>
+
 --- task---
 
 Click **Run** to see the results. 
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 
