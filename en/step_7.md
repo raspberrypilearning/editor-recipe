@@ -42,7 +42,6 @@ body {
 
 </div>
 
---- task---
 
 Click **Run** to see the results. 
 
