@@ -1,11 +1,8 @@
 <h2 class="c-project-heading--task">Name your recipe</h2>
 
-### Step 1
-
 The example recipe in this project is for a banana milkshake, but you can choose your own favourite recipe.
 
-
-### Step 2
+### Step 1
 
 In the `<body>` section, add a name for your recipe.
 
@@ -28,7 +25,7 @@ line_highlights: 8
 
 </div>
 
-### Step 3
+### Step 2
 
 **Test:** Run your code to see your title.
 

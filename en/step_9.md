@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Bullet styles</h2>
 
-### Step 1
-
 Add a style to change the bullet points to squares instead of circles:
 
+### Step 1
 
 <div class="c-project-code">
 --- code ---

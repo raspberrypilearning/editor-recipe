@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Method</h2>
 
-### Step 1
-
 Add **ordered list** tags for making numbered steps for the method.
 
+### Step 1
 
 <div class="c-project-code">
 --- code ---

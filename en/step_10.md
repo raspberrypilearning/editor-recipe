@@ -1,11 +1,8 @@
 <h2 class="c-project-heading--task">Challenges</h2>
 
-### Step 1
-
 Add more styles and images to upgrade your project.
 
-
-### Step 2
+### Step 1
 
 Change the background colour of your page by adding a background attribute to your `body` style in `style.css`.
 
@@ -24,13 +21,14 @@ body {
 --- /code ---
 </div>
 
-### Step 3
+### Step 2
+
 Ask a few of your friends to leave a review for your recipe and add it to your site.
 
 ![Red text on a yellow background showing two reviews of a banana milkshake recipe.](images/recipe-reviews.png)
 
 
-### Step 4
+### Step 3
 
 Choose an image from the pictures tab and add it to your page.
 

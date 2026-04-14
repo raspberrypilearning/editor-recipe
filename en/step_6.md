@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Horizontal line</h2>
 
-### Step 1
-
 Add a horizontal line at the end of your recipe using the `<hr>` tag.
 
+### Step 1
 
 <div class="c-project-code">
 --- code ---

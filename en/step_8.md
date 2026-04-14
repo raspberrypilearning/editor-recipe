@@ -1,12 +1,8 @@
 <h2 class="c-project-heading--task">Style the line</h2>
 
-### Step 1
-
 Add CSS code to set the style of the line. 
 
-
-
-### Step 2
+### Step 1
 
 Add the code below to the CSS file. 
 
@@ -45,7 +41,7 @@ hr {
 
 </div>
 
-### Step 3
+### Step 2
 
 Click **Run** to see the new style.
 

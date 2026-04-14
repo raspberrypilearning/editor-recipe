@@ -1,18 +1,16 @@
 <h2 class="c-project-heading--task">Colours</h2>
 
-### Step 1
-
 Style the recipe with CSS
 
 
-### Step 2
+### Step 1
 
 Click on the file icon, and the `style.css` file.
 
 ![screenshot](images/css-file.png)
 
 
-### Step 3
+### Step 2
 
 Add the code below to make all of the text blue.
 

@@ -1,16 +1,12 @@
 <h2 class="c-project-heading--task">First item</h2>
 
-### Step 1
-
 Add your ingredients in a list.
 
-
-### Step 2
+### Step 1
 
 Start and end a list using `<ul>`{:.language-html} tags.
 
-
-### Step 3
+### Step 2
 
 Add your first ingredient inside `<li>`{:.language-html} tags.
 
@@ -35,7 +31,7 @@ line_highlights: 11-14
 --- /code ---
 
 </div>
-### Step 4
+### Step 3
 
 **Test:** Run your code to see your first ingredient. 
 

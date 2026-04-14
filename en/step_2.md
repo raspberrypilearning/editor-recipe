@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Ingredients section</h2>
 
+Under the name, add an `Ingredients:` heading.
+
 ### Step 1
-
-Under the name, add an 'Ingredients:' heading.
-
 
 <div class="c-project-code">
 --- code ---
