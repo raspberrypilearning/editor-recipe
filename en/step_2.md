@@ -1,16 +1,9 @@
-<h2 class="c-project-heading--task">Name your recipe</h2>
+<h2 class="c-project-heading--task">Ingredients section</h2>
 
---- task ---
+### Step 1
 
-The example recipe in this project is for a banana milkshake, but you can choose your own favourite recipe.
+Under the name, add an 'Ingredients:' heading.
 
---- /task --- 
-
---- task ---
-
-In the `<body>` section, add a name for your recipe.
-
---- /task --- 
 
 <div class="c-project-code">
 --- code ---
@@ -19,25 +12,26 @@ filename: index.html
 language: html
 line_numbers: true
 line_number_start: 7
-line_highlights: 8
+line_highlights: 10
 ---
 <body>
 <h1>Banana Milkshake</h1>
-
+  
+  <h3>Ingredients:</h3>
+  
 </body>
 
 --- /code ---
 
 </div>
 
---- task ---
+### Step 2
 
 **Test:** Run your code to see your title.
 
---- /task --- 
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![ADD](images/step3.png)
 
 </div>

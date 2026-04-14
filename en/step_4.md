@@ -1,53 +1,35 @@
-<h2 class="c-project-heading--task">First item</h2>
+<h2 class="c-project-heading--task">Method</h2>
 
---- task ---
+### Step 1
 
-Add your ingredients in a list.
+Add **ordered list** tags for making numbered steps for the method.
 
---- /task --- 
-
---- task ---
-
-Start and end a list using `<ul>`{:.language-html} tags.
-
---- /task --- 
-
---- task ---
-
-Add your first ingredient inside `<li>`{:.language-html} tags.
-
---- /task --- 
 
 <div class="c-project-code">
 --- code ---
 ---
-filename: index.html
 language: html
 line_numbers: true
-line_number_start: 10
-line_highlights: 11-14
+line_number_start: 13
+line_highlights: 14-17
 ---
-  <h3>Ingredients:</h3>
-  <ul>
-    <li>1 banana</li>
-    <li>250ml Milk</li>
   </ul>
-
+  <h3>Method:</h3>
+  <ol>
+    
+  </ol>
 </body>
-
 --- /code ---
 
 </div>
---- task ---
 
-**Test:** Run your code to see your first ingredient. 
+### Step 2
 
-Add more list items for the rest of the ingredients in your recipe.
+Click **Run** to check you have added the code in the right place.
 
---- /task ---
 
 <div class="c-project-output">
 
-![ADD](images/step4.png)
+![screenshot](images/step5.png)
 
 </div>

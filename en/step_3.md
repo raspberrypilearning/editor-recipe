@@ -1,10 +1,19 @@
-<h2 class="c-project-heading--task">Ingredients section</h2>
+<h2 class="c-project-heading--task">First item</h2>
 
---- task ---
+### Step 1
 
-Under the name, add an 'Ingredients:' heading.
+Add your ingredients in a list.
 
---- /task --- 
+
+### Step 2
+
+Start and end a list using `<ul>`{:.language-html} tags.
+
+
+### Step 3
+
+Add your first ingredient inside `<li>`{:.language-html} tags.
+
 
 <div class="c-project-code">
 --- code ---
@@ -12,28 +21,29 @@ Under the name, add an 'Ingredients:' heading.
 filename: index.html
 language: html
 line_numbers: true
-line_number_start: 7
-line_highlights: 10
+line_number_start: 10
+line_highlights: 11-14
 ---
-<body>
-<h1>Banana Milkshake</h1>
-  
   <h3>Ingredients:</h3>
-  
+  <ul>
+    <li>1 banana</li>
+    <li>250ml Milk</li>
+  </ul>
+
 </body>
 
 --- /code ---
 
 </div>
+### Step 4
 
---- task ---
+**Test:** Run your code to see your first ingredient. 
 
-**Test:** Run your code to see your title.
+Add more list items for the rest of the ingredients in your recipe.
 
---- /task --- 
 
 <div class="c-project-output">
 
-![ADD](images/step3.png)
+![ADD](images/step4.png)
 
 </div>

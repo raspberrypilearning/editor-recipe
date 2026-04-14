@@ -1,37 +1,34 @@
-<h2 class="c-project-heading--task">Method</h2>
+<h2 class="c-project-heading--task">Steps</h2>
 
---- task ---
+### Step 1
 
-Add **ordered list** tags for making numbered steps for the method.
+Write down the first step in your recipe, using `<li>` and `</li>`:
 
---- /task --- 
 
 <div class="c-project-code">
 --- code ---
 ---
 language: html
 line_numbers: true
-line_number_start: 13
-line_highlights: 14-17
+line_number_start: 15
+line_highlights: 17
 ---
-  </ul>
   <h3>Method:</h3>
   <ol>
-    
+    <li>Peel the banana and add to a blender</li>
   </ol>
 </body>
 --- /code ---
 
 </div>
 
---- task ---
+### Step 2
+Click **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
 
-Click **Run** to check you have added the code in the right place.
-
---- /task ---
+Finish adding the rest of the steps to make your recipe.
 
 <div class="c-project-output">
 
-![screenshot](images/step5.png)
+![screenshot](images/step6.png)
 
 </div>

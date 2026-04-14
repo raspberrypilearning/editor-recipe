@@ -1,29 +1,8 @@
-<h2 class="c-project-heading--task">Style the line</h2>
+<h2 class="c-project-heading--task">Bullet styles</h2>
 
---- task ---
+### Step 1
 
-Add CSS code to set the style of the line. 
-
---- /task --- 
-
-
---- task ---
-
-Add the code below to the CSS file. 
-
-Edit the code:
-- Replace `orange` with a colour you like. 
-- Change the `height` to make the line thinner or thicker.
-
---- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-In `height: 2px` px is short for pixels, and is the number of dots on a screen. 
-
-</div>
+Add a style to change the bullet points to squares instead of circles:
 
 
 <div class="c-project-code">
@@ -31,30 +10,29 @@ In `height: 2px` px is short for pixels, and is the number of dots on a screen.
 ---
 language: css
 line_numbers: true
-line_number_start: 1
-line_highlights: 5-9
+line_number_start: 5
+line_highlights: 11-13
 ---
-body {
-    color: blue;
-}
-
 hr {
     height: 4px;
     border: none;
     background-color: orange;
 }
+
+ul {
+    list-style-type: square;
+}
 --- /code ---
 
 </div>
 
---- task ---
+### Step 2
 
-Click **Run** to see the new style.
+Click **Run** to see the new shape.
 
---- /task ---
 
 <div class="c-project-output">
 
-![A recipe for banana milkshake in light red with a light red line underneath it](images/step10.png)
+![A recipe for banana milkshake with bullet points in the shape of squares](images/step9.png){:style=“width:50%;“}
 
 </div>

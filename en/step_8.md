@@ -1,34 +1,28 @@
-<h2 class="c-project-heading--task">Colours</h2>
+<h2 class="c-project-heading--task">Style the line</h2>
 
---- task ---
+### Step 1
 
-Style the recipe with CSS
+Add CSS code to set the style of the line. 
 
---- /task --- 
 
---- task ---
 
-Click on the file icon, and the `style.css` file.
+### Step 2
 
-![screenshot](images/css-file.png)
+Add the code below to the CSS file. 
 
---- /task ---
+Edit the code:
+- Replace `orange` with a colour you like. 
+- Change the `height` to make the line thinner or thicker.
 
---- task ---
-
-Add the code below to make all of the text blue.
-
-Experiment with other colours, then click **Run** to see the result.
-
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+In `height: 2px` px is short for pixels, and is the number of dots on a screen. 
 
 </div>
+
 
 <div class="c-project-code">
 --- code ---
@@ -36,23 +30,28 @@ You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_bl
 language: css
 line_numbers: true
 line_number_start: 1
-line_highlights: 1-3
+line_highlights: 5-9
 ---
 body {
     color: blue;
+}
+
+hr {
+    height: 4px;
+    border: none;
+    background-color: orange;
 }
 --- /code ---
 
 </div>
 
---- task---
+### Step 3
 
-Click **Run** to see the results. 
+Click **Run** to see the new style.
 
---- /task ---
 
 <div class="c-project-output">
 
-![A banana milkshake recipe written in blue text](images/step8.png){:style="width:50%;"}
+![A recipe for banana milkshake in light red with a light red line underneath it](images/step10.png)
 
 </div>

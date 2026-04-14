@@ -1,36 +1,32 @@
-<h2 class="c-project-heading--task">Steps</h2>
+<h2 class="c-project-heading--task">Horizontal line</h2>
 
---- task ---
+### Step 1
 
-Write down the first step in your recipe, using `<li>` and `</li>`:
+Add a horizontal line at the end of your recipe using the `<hr>` tag.
 
---- /task --- 
 
 <div class="c-project-code">
 --- code ---
 ---
 language: html
 line_numbers: true
-line_number_start: 15
-line_highlights: 17
+line_number_start: 18
+line_highlights: 19
 ---
-  <h3>Method:</h3>
-  <ol>
-    <li>Peel the banana and add to a blender</li>
   </ol>
+  <hr>
 </body>
 --- /code ---
 
 </div>
 
---- task ---
-Click **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
+### Step 2
 
-Finish adding the rest of the steps to make your recipe.
---- /task ---
+Click **Run** to see the line.
+
 
 <div class="c-project-output">
 
-![screenshot](images/step6.png)
+![A banana milkshake recipe in light red text with a grey line underneath it](images/step7.png)
 
 </div>
