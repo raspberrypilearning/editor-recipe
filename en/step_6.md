@@ -2,7 +2,9 @@
 
 Add a horizontal line at the end of your recipe using the `<hr>` tag.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -19,7 +21,7 @@ line_highlights: 19
 
 </div>
 
-### Step 2
+## Step 2
 
 Click **Run** to see the line.
 
@@ -29,3 +31,7 @@ Click **Run** to see the line.
 ![A banana milkshake recipe in light red text with a grey line underneath it](images/step7.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

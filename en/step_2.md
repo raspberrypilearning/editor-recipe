@@ -2,7 +2,7 @@
 
 Under the name, add an `Ingredients:` heading.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 <div class="c-project-code">
 --- code ---
@@ -24,9 +24,9 @@ line_highlights: 10
 
 </div>
 
-### Step 2
+## Now run your code
 
-**Test:** Run your code to see your title.
+You should see your title.
 
 
 <div class="c-project-output">
@@ -34,3 +34,5 @@ line_highlights: 10
 ![ADD](images/step3.png)
 
 </div>
+
+Confirm the observable result.

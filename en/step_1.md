@@ -2,7 +2,7 @@
 
 The example recipe in this project is for a banana milkshake, but you can choose your own favourite recipe.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 In the `<body>` section, add a name for your recipe.
 
@@ -25,9 +25,9 @@ line_highlights: 8
 
 </div>
 
-### Step 2
+## Now run your code
 
-**Test:** Run your code to see your title.
+You should see your title.
 
 
 <div class="c-project-output">
@@ -35,3 +35,5 @@ line_highlights: 8
 ![ADD](images/step2.png)
 
 </div>
+
+Confirm the observable result.

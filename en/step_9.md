@@ -2,7 +2,9 @@
 
 Add a style to change the bullet points to squares instead of circles:
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -25,7 +27,7 @@ ul {
 
 </div>
 
-### Step 2
+## Step 2
 
 Click **Run** to see the new shape.
 
@@ -35,3 +37,7 @@ Click **Run** to see the new shape.
 ![A recipe for banana milkshake with bullet points in the shape of squares](images/step9.png){:style=“width:50%;“}
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

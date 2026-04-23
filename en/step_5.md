@@ -2,7 +2,9 @@
 
 Write down the first step in your recipe, using `<li>` and `</li>`:
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -21,7 +23,7 @@ line_highlights: 17
 
 </div>
 
-### Step 2
+## Step 2
 
 Click **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
 
@@ -32,3 +34,7 @@ Finish adding the rest of the steps to make your recipe.
 ![screenshot](images/step6.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

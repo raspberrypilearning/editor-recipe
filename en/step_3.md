@@ -2,11 +2,13 @@
 
 Add your ingredients in a list.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Start and end a list using `<ul>`{:.language-html} tags.
 
-### Step 2
+## Step 2
 
 Add your first ingredient inside `<li>`{:.language-html} tags.
 
@@ -31,9 +33,10 @@ line_highlights: 11-14
 --- /code ---
 
 </div>
-### Step 3
 
-**Test:** Run your code to see your first ingredient. 
+## Now run your code
+
+You should see your first ingredient.
 
 Add more list items for the rest of the ingredients in your recipe.
 
@@ -43,3 +46,5 @@ Add more list items for the rest of the ingredients in your recipe.
 ![ADD](images/step4.png)
 
 </div>
+
+Confirm the observable result.

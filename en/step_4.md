@@ -2,7 +2,9 @@
 
 Add **ordered list** tags for making numbered steps for the method.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -22,7 +24,7 @@ line_highlights: 14-17
 
 </div>
 
-### Step 2
+## Step 2
 
 Click **Run** to check you have added the code in the right place.
 
@@ -32,3 +34,7 @@ Click **Run** to check you have added the code in the right place.
 ![screenshot](images/step5.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

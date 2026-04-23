@@ -2,24 +2,26 @@
 
 Style the recipe with CSS
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 1
+## Step 1
 
 Click on the file icon, and the `style.css` file.
 
+<div class="c-project-output">
 ![screenshot](images/css-file.png)
+</div>
 
-
-### Step 2
+## Step 2
 
 Add the code below to make all of the text blue.
 
 Experiment with other colours, then click **Run** to see the result.
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
@@ -49,3 +51,7 @@ Click **Run** to see the results.
 ![A banana milkshake recipe written in blue text](images/step8.png){:style="width:50%;"}
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

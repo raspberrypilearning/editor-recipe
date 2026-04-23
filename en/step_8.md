@@ -1,8 +1,10 @@
 <h2 class="c-project-heading--task">Style the line</h2>
 
-Add CSS code to set the style of the line. 
+Add CSS code to set the style of the line.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Add the code below to the CSS file. 
 
@@ -11,9 +13,9 @@ Edit the code:
 - Change the `height` to make the line thinner or thicker.
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 In `height: 2px` px is short for pixels, and is the number of dots on a screen. 
 
@@ -41,7 +43,7 @@ hr {
 
 </div>
 
-### Step 2
+## Step 2
 
 Click **Run** to see the new style.
 
@@ -51,3 +53,7 @@ Click **Run** to see the new style.
 ![A recipe for banana milkshake in light red with a light red line underneath it](images/step10.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
