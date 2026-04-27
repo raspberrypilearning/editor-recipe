@@ -56,4 +56,4 @@ Click **Run** to see the new style.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the recipe uses your new colours and line style.

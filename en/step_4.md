@@ -37,4 +37,4 @@ Click **Run** to check you have added the code in the right place.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that a `Method:` heading appears below the ingredients list.

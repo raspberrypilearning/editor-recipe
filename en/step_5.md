@@ -37,4 +37,4 @@ Finish adding the rest of the steps to make your recipe.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that your first method step appears with the number `1`.

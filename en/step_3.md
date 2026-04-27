@@ -47,4 +47,4 @@ Add more list items for the rest of the ingredients in your recipe.
 
 </div>
 
-Confirm the observable result.
+Run your code and check that your ingredients list appears with bullet points.

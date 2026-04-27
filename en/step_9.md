@@ -40,4 +40,4 @@ Click **Run** to see the new shape.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the ingredient bullets are square.

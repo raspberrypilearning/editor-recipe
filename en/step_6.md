@@ -34,4 +34,4 @@ Click **Run** to see the line.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that a horizontal line appears under the recipe.

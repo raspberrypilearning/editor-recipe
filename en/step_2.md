@@ -35,4 +35,4 @@ You should see your title.
 
 </div>
 
-Confirm the observable result.
+Run your code and check that an `Ingredients:` heading appears under the title.

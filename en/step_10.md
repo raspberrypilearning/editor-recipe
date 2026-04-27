@@ -56,4 +56,4 @@ line_highlights: 20
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the image you chose appears on the page.

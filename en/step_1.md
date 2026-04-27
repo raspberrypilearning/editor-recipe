@@ -36,4 +36,4 @@ You should see your title.
 
 </div>
 
-Confirm the observable result.
+Run your code and check that the title `Banana Milkshake` appears.

@@ -54,4 +54,4 @@ Click **Run** to see the results.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the recipe text changes to blue.
