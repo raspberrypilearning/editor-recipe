@@ -6,16 +6,22 @@ version: 1
 listed: false
 copyedit: false
 last_tested: "2025-09-15"
+landing: true
 steps:
-- title: Recipe name
-  completion:
-  - engaged
-- title: Ingredients
-- title: Method
-- title: Colours
-- title: Finishing touches
-  completion:
-  - internal
-- title: Challenge
-  completion:
-  - external
+  - title: Name your recipe
+  - title: Ingredients section
+    completion:
+      - engaged
+  - title: First item
+  - title: Method
+  - title: Steps
+  - title: Horizontal line
+  - title: Colours
+  - title: Style the line
+    completion:
+      - internal
+  - title: Bullet styles
+    completion:
+      - external
+  - title: Challenges
+    challenge: true

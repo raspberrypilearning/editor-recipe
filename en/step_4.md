@@ -1,29 +1,40 @@
 <h2 class="c-project-heading--task">Method</h2>
 
---- task ---
+Add **ordered list** tags for making numbered steps for the method.
 
-Add an __ordered list__ with numbered steps for the method.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
---- /task --- 
+## Step 1
 
+<div class="c-project-code">
 --- code ---
 ---
 language: html
-line_numbers: false
+line_numbers: true
 line_number_start: 13
-line_highlights: 14-18
+line_highlights: 14-17
 ---
-</ul>
-<h3>Method:</h3>
-<ol>
-
-</ol>
+  </ul>
+  <h3>Method:</h3>
+  <ol>
+    
+  </ol>
 </body>
 --- /code ---
---- /task ---
 
---- task ---
+</div>
+
+## Step 2
+
 Click **Run** to check you have added the code in the right place.
 
-![screenshot](images/recipe-method.png)
---- /task ---
+
+<div class="c-project-output">
+
+![screenshot](images/step5.png)
+
+</div>
+
+## Now run your code
+
+Click **Run** and check that a `Method:` heading appears below the ingredients list.

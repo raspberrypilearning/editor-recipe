@@ -1,26 +1,59 @@
-<h2 class="c-project-heading--task">Name your recipe</h2>
+<h2 class="c-project-heading--task">Style the line</h2>
 
---- task ---
-➡️ In the `<body>` section, add a name for your recipe.
---- /task --- 
+Add CSS code to set the style of the line.
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
+
+Add the code below to the CSS file. 
+
+Edit the code:
+- Replace `orange` with a colour you like. 
+- Change the `height` to make the line thinner or thicker.
+
+
+### Tip
+
+<div class="c-project-callout c-project-callout--tip">
+
+In `height: 2px` px is short for pixels, and is the number of dots on a screen. 
+
+</div>
+
 
 <div class="c-project-code">
 --- code ---
 ---
-filename: index.html
-language: html
+language: css
 line_numbers: true
-line_number_start: 7
-line_highlights: 8-10
+line_number_start: 1
+line_highlights: 5-9
 ---
-<body>
-<h1>Banana Milkshake</h1>
+body {
+    color: blue;
+}
 
-<h3>Ingredients:</h3>
-
-</body>
-
+hr {
+    height: 4px;
+    border: none;
+    background-color: orange;
+}
 --- /code ---
+
 </div>
 
-**Test:** Run your code to see your title.
+## Step 2
+
+Click **Run** to see the new style.
+
+
+<div class="c-project-output">
+
+![A recipe for banana milkshake in light red with a light red line underneath it](images/step10.png)
+
+</div>
+
+## Now run your code
+
+Click **Run** and check that the recipe uses your new colours and line style.

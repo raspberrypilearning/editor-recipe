@@ -1,22 +1,17 @@
 <h2 class="c-project-heading--task">First item</h2>
 
---- task ---
+Add your ingredients in a list.
 
-Add your ingredient in a list.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
---- /task --- 
-
---- task ---
+## Step 1
 
 Start and end a list using `<ul>`{:.language-html} tags.
 
---- /task --- 
-
---- task ---
+## Step 2
 
 Add your first ingredient inside `<li>`{:.language-html} tags.
 
---- /task --- 
 
 <div class="c-project-code">
 --- code ---
@@ -24,33 +19,32 @@ Add your first ingredient inside `<li>`{:.language-html} tags.
 filename: index.html
 language: html
 line_numbers: true
-line_number_start: 7
-line_highlights: 11-13
+line_number_start: 10
+line_highlights: 11-14
 ---
-<body>
-<h1>Banana Milkshake</h1>
-
-<h3>Ingredients:</h3>
-<ul>
-<li>1 banana</li>
-<li>250ml Milk</li>
-</ul>
+  <h3>Ingredients:</h3>
+  <ul>
+    <li>1 banana</li>
+    <li>250ml Milk</li>
+  </ul>
 
 </body>
 
 --- /code ---
---- task ---
 
-**Test:** Run your code to see your first ingredient. 
+</div>
+
+## Now run your code
+
+You should see your first ingredient.
 
 Add more list items for the rest of the ingredients in your recipe.
 
---- /task ---
-
-</div>
 
 <div class="c-project-output">
 
-![ADD](images/step3.png)
+![ADD](images/step4.png)
 
 </div>
+
+Run your code and check that your ingredients list appears with bullet points.

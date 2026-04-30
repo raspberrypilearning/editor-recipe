@@ -1,26 +1,43 @@
-<h2 class="c-project-heading--task">Name your recipe</h2>
+<h2 class="c-project-heading--task">Bullet styles</h2>
 
---- task ---
-➡️ In the `<body>` section, add a name for your recipe.
---- /task --- 
+Add a style to change the bullet points to squares instead of circles:
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
 ---
-filename: index.html
-language: html
+language: css
 line_numbers: true
-line_number_start: 7
-line_highlights: 8-10
+line_number_start: 5
+line_highlights: 11-13
 ---
-<body>
-<h1>Banana Milkshake</h1>
+hr {
+    height: 4px;
+    border: none;
+    background-color: orange;
+}
 
-<h3>Ingredients:</h3>
-
-</body>
-
+ul {
+    list-style-type: square;
+}
 --- /code ---
+
 </div>
 
-**Test:** Run your code to see your title.
+## Step 2
+
+Click **Run** to see the new shape.
+
+
+<div class="c-project-output">
+
+![A recipe for banana milkshake with bullet points in the shape of squares](images/step9.png){:style=“width:50%;“}
+
+</div>
+
+## Now run your code
+
+Click **Run** and check that the ingredient bullets are square.

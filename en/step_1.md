@@ -1,16 +1,11 @@
 <h2 class="c-project-heading--task">Name your recipe</h2>
 
---- task ---
-
 The example recipe in this project is for a banana milkshake, but you can choose your own favourite recipe.
 
---- /task --- 
-
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 In the `<body>` section, add a name for your recipe.
 
---- /task --- 
 
 <div class="c-project-code">
 --- code ---
@@ -28,15 +23,17 @@ line_highlights: 8
 
 --- /code ---
 
---- task ---
-
-**Test:** Run your code to see your title.
-
---- /task --- 
 </div>
+
+## Now run your code
+
+You should see your title.
+
 
 <div class="c-project-output">
 
 ![ADD](images/step2.png)
 
 </div>
+
+Run your code and check that the title `Banana Milkshake` appears.
