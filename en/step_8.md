@@ -2,8 +2,6 @@
 
 Add CSS code to set the style of the line.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add the code below to the CSS file. 

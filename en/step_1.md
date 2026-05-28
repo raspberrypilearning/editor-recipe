@@ -2,8 +2,6 @@
 
 The example recipe in this project is for a banana milkshake, but you can choose your own favourite recipe.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 In the `<body>` section, add a name for your recipe.
 
 

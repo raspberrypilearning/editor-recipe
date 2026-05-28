@@ -2,8 +2,6 @@
 
 Add your ingredients in a list.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Start and end a list using `<ul>`{:.language-html} tags.

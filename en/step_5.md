@@ -2,8 +2,6 @@
 
 Write down the first step in your recipe, using `<li>` and `</li>`:
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">

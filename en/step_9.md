@@ -2,8 +2,6 @@
 
 Add a style to change the bullet points to squares instead of circles:
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">
