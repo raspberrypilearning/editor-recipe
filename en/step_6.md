@@ -2,8 +2,6 @@
 
 Add a horizontal line at the end of your recipe using the `<hr>` tag.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">
