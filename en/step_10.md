@@ -2,8 +2,6 @@
 
 Add more styles and images to upgrade your project.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Change the background colour of your page by adding a background attribute to your `body` style in `style.css`.
