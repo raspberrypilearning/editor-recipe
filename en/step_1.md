@@ -30,8 +30,8 @@ You should see your title.
 
 <div class="c-project-output">
 
-![ADD](images/step2.png)
+![The preview showing the title "Banana Milkshake" in a large font.](images/step2.png)
 
 </div>
 
-Run your code and check that the title `Banana Milkshake` appears.
+Run your code and check that the title "Banana Milkshake" appears.

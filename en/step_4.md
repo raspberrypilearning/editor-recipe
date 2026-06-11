@@ -1,6 +1,6 @@
-<h2 class="c-project-heading--task">Method</h2>
+<h2 class="c-project-heading--task">Add a method section</h2>
 
-Add **ordered list** tags for making numbered steps for the method.
+Add **ordered list** tags to make numbered steps for the method.
 
 ## Step 1
 
@@ -9,8 +9,8 @@ Add **ordered list** tags for making numbered steps for the method.
 ---
 language: html
 line_numbers: true
-line_number_start: 13
-line_highlights: 14-17
+line_number_start: 14
+line_highlights: 15-18
 ---
   </ul>
   <h3>Method:</h3>
@@ -24,15 +24,15 @@ line_highlights: 14-17
 
 ## Step 2
 
-Click **Run** to check you have added the code in the right place.
+Click on **Run** to check that you have added the code in the right place.
 
 
 <div class="c-project-output">
 
-![screenshot](images/step5.png)
+![The preview showing the heading "Method:" below the ingredients list.](images/step5.png)
 
 </div>
 
 ## Now run your code
 
-Click **Run** and check that a `Method:` heading appears below the ingredients list.
+Click on **Run** and check that the heading "Method:" appears below the ingredients list.

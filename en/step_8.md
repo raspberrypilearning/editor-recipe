@@ -4,18 +4,18 @@ Add CSS code to set the style of the line.
 
 ## Step 1
 
-Add the code below to the CSS file. 
+Add the code below to the CSS file.
 
 Edit the code:
-- Replace `orange` with a colour you like. 
-- Change the `height` to make the line thinner or thicker.
+- Replace `orange` with a colour of your choice
+- Change the `height` to make the line thinner or thicker
 
 
 ### Tip
 
 <div class="c-project-callout c-project-callout--tip">
 
-In `height: 2px` px is short for pixels, and is the number of dots on a screen. 
+In `height: 2px`, 'px' is short for 'pixels'. It means the number of dots on a screen. 
 
 </div>
 
@@ -43,15 +43,15 @@ hr {
 
 ## Step 2
 
-Click **Run** to see the new style.
+Click on **Run** to see the new style.
 
 
 <div class="c-project-output">
 
-![A recipe for banana milkshake in light red with a light red line underneath it](images/step10.png)
+![The preview showing the recipe for banana milkshake in blue text with an orange line below it.](images/step10.png)
 
 </div>
 
 ## Now run your code
 
-Click **Run** and check that the recipe uses your new colours and line style.
+Click on **Run** and check that the recipe uses your new colours and line style.

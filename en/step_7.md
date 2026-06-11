@@ -1,10 +1,10 @@
-<h2 class="c-project-heading--task">Colours</h2>
+<h2 class="c-project-heading--task">Add colour</h2>
 
-Style the recipe with CSS
+Style the recipe with CSS.
 
 ## Step 1
 
-Click on the file icon, and the `style.css` file.
+Click on the **Project files** icon, and open the `style.css` file.
 
 <div class="c-project-output">
 ![screenshot](images/css-file.png)
@@ -12,16 +12,16 @@ Click on the file icon, and the `style.css` file.
 
 ## Step 2
 
-Add the code below to make all of the text blue.
+Add the code below to make all of the text blue, then click on **Run** to see the result.
 
-Experiment with other colours, then click **Run** to see the result.
+Then, experiment with other colours.
 
 
 ### Tip
 
 <div class="c-project-callout c-project-callout--tip">
 
-You can find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+You can find [more CSS colour names here](http://jumpto.cc/colours){:target="_blank"}.
 
 </div>
 
@@ -41,15 +41,15 @@ body {
 </div>
 
 
-Click **Run** to see the results. 
+Click on **Run** to see the results. 
 
 
 <div class="c-project-output">
 
-![A banana milkshake recipe written in blue text](images/step8.png){:style="width:50%;"}
+![The preview showing the banana milkshake recipe written in blue.](images/step8.png){:style="width:50%;"}
 
 </div>
 
 ## Now run your code
 
-Click **Run** and check that the recipe text changes to blue.
+Click on **Run** and check that the recipe text changes to the colour you have chosen.

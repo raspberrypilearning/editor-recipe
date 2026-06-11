@@ -1,8 +1,10 @@
-<h2 class="c-project-heading--task">Bullet styles</h2>
+<h2 class="c-project-heading--task">Style the bullet points</h2>
 
-Add a style to change the bullet points to squares instead of circles:
+Add a style to change the bullet points to squares instead of circles.
 
 ## Step 1
+
+Add this code to the CSS file:
 
 <div class="c-project-code">
 --- code ---
@@ -27,15 +29,15 @@ ul {
 
 ## Step 2
 
-Click **Run** to see the new shape.
+Click on **Run** to see the new shapes.
 
 
 <div class="c-project-output">
 
-![A recipe for banana milkshake with bullet points in the shape of squares](images/step9.png){:style=“width:50%;“}
+![The preview showing the recipe for banana milkshake with square bullet points in the ingredients list.](images/step9.png){:style=“width:50%;“}
 
 </div>
 
 ## Now run your code
 
-Click **Run** and check that the ingredient bullets are square.
+Click on **Run** and check that the bullet points in the ingredients list are square.
