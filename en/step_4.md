@@ -22,9 +22,9 @@ line_highlights: 15-18
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click on **Run** to check that you have added the code in the right place.
+Check that the heading "Method:" appears below the ingredients list.
 
 
 <div class="c-project-output">
@@ -33,6 +33,4 @@ Click on **Run** to check that you have added the code in the right place.
 
 </div>
 
-## Now run your code
 
-Click on **Run** and check that the heading "Method:" appears below the ingredients list.

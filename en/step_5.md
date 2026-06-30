@@ -23,9 +23,9 @@ line_highlights: 17
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click on **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
+Click on **Run** and check that your steps appear with numbers.
 
 Add the rest of the steps to make your recipe.
 
@@ -35,6 +35,3 @@ Add the rest of the steps to make your recipe.
 
 </div>
 
-## Now run your code
-
-Click on **Run** and check that your steps appear with numbers.

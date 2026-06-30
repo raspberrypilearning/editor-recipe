@@ -27,9 +27,9 @@ ul {
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click on **Run** to see the new shapes.
+Click on **Run** and check that the bullet points in the ingredients list are square.
 
 
 <div class="c-project-output">
@@ -38,6 +38,4 @@ Click on **Run** to see the new shapes.
 
 </div>
 
-## Now run your code
 
-Click on **Run** and check that the bullet points in the ingredients list are square.

@@ -41,9 +41,9 @@ hr {
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click on **Run** to see the new style.
+Click on **Run** and check that the recipe uses your new colours and line style.
 
 
 <div class="c-project-output">
@@ -52,6 +52,4 @@ Click on **Run** to see the new style.
 
 </div>
 
-## Now run your code
 
-Click on **Run** and check that the recipe uses your new colours and line style.

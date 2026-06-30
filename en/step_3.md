@@ -4,11 +4,11 @@ Add your ingredients in a list.
 
 ## Step 1
 
-Start and end a list using `<ul>`{:.language-html} tags.
+Start and end a list using `<ul>` tags.
 
 ## Step 2
 
-Add your first ingredient inside `<li>`{:.language-html} tags.
+Add your first ingredient inside `<li>` tags.
 
 
 <div class="c-project-code">
@@ -44,4 +44,3 @@ Add more list items for the rest of the ingredients in your recipe.
 
 </div>
 
-Run your code and check that your ingredients list appears with bullet points.

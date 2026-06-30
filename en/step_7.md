@@ -41,7 +41,9 @@ body {
 </div>
 
 
-Click on **Run** to see the results. 
+## Now run your code
+
+Click on **Run** and check that the recipe text changes to the colour you have chosen.
 
 
 <div class="c-project-output">
@@ -50,6 +52,4 @@ Click on **Run** to see the results.
 
 </div>
 
-## Now run your code
 
-Click on **Run** and check that the recipe text changes to the colour you have chosen.

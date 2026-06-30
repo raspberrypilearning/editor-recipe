@@ -21,9 +21,9 @@ line_highlights: 19
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click on **Run** to see the line.
+Click on **Run** and check that a horizontal line appears below the recipe.
 
 
 <div class="c-project-output">
@@ -32,6 +32,4 @@ Click on **Run** to see the line.
 
 </div>
 
-## Now run your code
 
-Click on **Run** and check that a horizontal line appears below the recipe.

@@ -34,4 +34,3 @@ You should see your title.
 
 </div>
 
-Run your code and check that the title "Banana Milkshake" appears.

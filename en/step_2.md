@@ -33,4 +33,3 @@ You should see the heading under your title.
 
 </div>
 
-Run your code and check that an "Ingredients:" heading appears under the title.
