@@ -1,8 +1,10 @@
-<h2 class="c-project-heading--task">Horizontal line</h2>
+<h2 class="c-project-heading--task">Add a horizontal line</h2>
 
-Add a horizontal line at the end of your recipe using the `<hr>` tag.
+Add a horizontal line at the end of your recipe.
 
 ## Step 1
+
+ Use an `<hr>` tag to add the line.
 
 <div class="c-project-code">
 --- code ---
@@ -19,17 +21,15 @@ line_highlights: 19
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** to see the line.
+Click on **Run** and check that a horizontal line appears below the recipe.
 
 
 <div class="c-project-output">
 
-![A banana milkshake recipe in light red text with a grey line underneath it](images/step7.png)
+![The preview showing the banana milkshake recipe with a line below it.](images/step7.png)
 
 </div>
 
-## Now run your code
 
-Click **Run** and check that a horizontal line appears under the recipe.

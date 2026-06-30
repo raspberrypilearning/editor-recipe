@@ -1,8 +1,10 @@
-<h2 class="c-project-heading--task">Steps</h2>
+<h2 class="c-project-heading--task">Add steps</h2>
 
-Write down the first step in your recipe, using `<li>` and `</li>`:
+Add the steps for your recipe.
 
 ## Step 1
+
+Write down the first step, using `<li>` and `</li>`:
 
 <div class="c-project-code">
 --- code ---
@@ -21,18 +23,15 @@ line_highlights: 17
 
 </div>
 
-## Step 2
+## Now run your code
 
-Click **Run** to see your instruction appear, with a number 1 as it is the first instruction in the list.
+Click on **Run** and check that your steps appear with numbers.
 
-Finish adding the rest of the steps to make your recipe.
+Add the rest of the steps to make your recipe.
 
 <div class="c-project-output">
 
-![screenshot](images/step6.png)
+![The preview showing "1. Peel the banana and add to a blender" after the heading "Method:".](images/step6.png)
 
 </div>
 
-## Now run your code
-
-Click **Run** and check that your first method step appears with the number `1`.

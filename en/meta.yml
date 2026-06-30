@@ -1,6 +1,6 @@
 title: Recipe
 hero_image: images/banner.png
-description: Create a webpage of your favourite recipe, so that your friends can make
+description: Create a webpage for your favourite recipe, so that your friends can make
   it!
 version: 1
 listed: false
@@ -9,18 +9,18 @@ last_tested: "2025-09-15"
 landing: true
 steps:
   - title: Name your recipe
-  - title: Ingredients section
+  - title: Add an ingredients section
     completion:
       - engaged
-  - title: First item
-  - title: Method
-  - title: Steps
-  - title: Horizontal line
-  - title: Colours
+  - title: Add ingredients
+  - title: Add a method section
+  - title: Add steps
+  - title: Add a horizontal line
+  - title: Add colour
   - title: Style the line
     completion:
       - internal
-  - title: Bullet styles
+  - title: Style the bullet points
     completion:
       - external
   - title: Challenges

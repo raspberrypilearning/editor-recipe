@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Ingredients section</h2>
+<h2 class="c-project-heading--task">Add an ingredients section</h2>
 
 Under the name, add an `Ingredients:` heading.
 
@@ -24,13 +24,12 @@ line_highlights: 10
 
 ## Now run your code
 
-You should see your title.
+You should see the heading under your title.
 
 
 <div class="c-project-output">
 
-![ADD](images/step3.png)
+![The preview showing the title "Banana Milkshake" followed by the heading "Ingredients:" in a smaller font.](images/step3.png)
 
 </div>
 
-Run your code and check that an `Ingredients:` heading appears under the title.
