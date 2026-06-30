@@ -6,10 +6,6 @@ Style the recipe with CSS.
 
 Click on the **Project files** icon, and open the `style.css` file.
 
-<div class="c-project-output">
-![screenshot](images/css-file.png)
-</div>
-
 ## Step 2
 
 Add the code below to make all of the text blue, then click on **Run** to see the result.

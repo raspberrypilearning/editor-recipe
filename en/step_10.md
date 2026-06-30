@@ -11,9 +11,13 @@ To change the background colour of your page, add a `background` attribute to yo
 ---
 language: css
 line_numbers: true
-line_number_start: 1
-line_highlights: 2-3
+line_number_start: 11
+line_highlights: 15-18
 ---
+ul {
+    list-style-type: square;
+}
+
 body {
   color: tomato;
   background: beige;
